@@ -1,3 +1,7 @@
 Amarican 88
 Japan 99
+<<<<<<< HEAD
 China 101111333
+=======
+China 101111333
+>>>>>>> branch1
